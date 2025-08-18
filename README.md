@@ -1,0 +1,1 @@
+# Image Search using Clip and Faiss
