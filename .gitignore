@@ -1,0 +1,6 @@
+DATA/*
+!DATA/.gitkeep
+.DS_Store
+
+index_assets/*
+!index_assets/.gitkeep
